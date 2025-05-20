@@ -83,13 +83,26 @@ commit c499a94e3fa70da0d3d09bd45a578ddeaaa247d6 (origin/main)
 Author: js071918 <jacob45692@gmail.com>
 Date:   Tue May 20 18:13:28 2025 -0400
 
-answer 9: 
+answer 9: On branch main
+Your branch is up to date with 'origin/main'.
 
-answer 10:
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        deleted:    README.md
+        modified:   git-lab/answers.md
 
-answer 11:
+answer 10: Answers were not recorded in local copy.
 
-answer 12:
+answer 11: ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/js071918/git-lab.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
-answer 13:
+answer 12: The changes made on git are reflected on my local copy.
+
+answer 13: ~/CS2400/git-lab-2$ ls -a
+.  ..  .git  .gitignore  README.md
 
