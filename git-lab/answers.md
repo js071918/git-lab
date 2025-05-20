@@ -84,3 +84,12 @@ Author: js071918 <jacob45692@gmail.com>
 Date:   Tue May 20 18:13:28 2025 -0400
 
 answer 9: 
+
+answer 10:
+
+answer 11:
+
+answer 12:
+
+answer 13:
+
